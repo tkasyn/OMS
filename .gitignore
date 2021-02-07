@@ -5,4 +5,4 @@ logs
 .project
 coverage.ec
 
-/target
+./target/*
